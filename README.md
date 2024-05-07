@@ -1,2 +1,2 @@
 # Financial Loan Dashboard
-This is my first git repository
+The Dynamic Bank Loan Analysis Report, monitor and assess bank's lending activities and performance. This report aims to provide insights into key loan-related metrics and their changes over time, understanding customer behavior, assessing risk, optimizing lending strategies, and improving decision-making processes. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
